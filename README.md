@@ -132,10 +132,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_HANDLE-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_HANDLE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR_HANDLE-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR_HANDLE-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR_HANDLE-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_HANDLE-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Meghasharma02/)
 
 </div>
 
