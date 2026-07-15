@@ -121,7 +121,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Meghasharma02))](https://leetcode.com/u/Meghasharma02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Meghasharma02)](https://leetcode.com/u/Meghasharma02/)
 
 </div>
 
