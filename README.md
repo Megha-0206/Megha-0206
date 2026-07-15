@@ -121,7 +121,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Meghasharma02)-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Meghasharma02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Meghasharma02))](https://leetcode.com/u/Meghasharma02/)
 
 </div>
 
@@ -133,10 +133,10 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&title_color=B19CD9&icon_color=8A2BE2&text_color=E6E6FA&bg_color=0D0221&border_color=6A0DAD&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&background=0D0221&ring=8A2BE2&fire=B19CD9&currStreakLabel=E6E6FA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Megha-0206&show_icons=true&theme=radical&title_color=B19CD9&icon_color=8A2BE2&text_color=E6E6FA&bg_color=0D0221&border_color=6A0DAD&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha-0206&theme=radical&hide_border=false&background=0D0221&ring=8A2BE2&fire=B19CD9&currStreakLabel=E6E6FA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&title_color=B19CD9&text_color=E6E6FA&bg_color=0D0221&border_color=6A0DAD&hide_border=false" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-0206&layout=compact&theme=radical&title_color=B19CD9&text_color=E6E6FA&bg_color=0D0221&border_color=6A0DAD&hide_border=false" width="60%" />
 
 </div>
 
