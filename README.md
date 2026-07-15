@@ -25,12 +25,11 @@
 
 ## 🪶 About Me
 
-I'm a Computer Science undergraduate focused on building reliable, scalable software — spanning **full‑stack web development**, **AI/ML systems**, and **security engineering**. My work is grounded in a product‑engineering mindset: I care as much about system design, performance, and maintainability as I do about the code itself.
+I'm a Computer Science undergraduate focused on building reliable, scalable software — spanning **full‑stack web development**, **AI/ML systems** and **Database Management**. My work is grounded in a product‑engineering mindset: I care as much about system design, performance, and maintainability as I do about the code itself.
 
 - 🔭 Hands-on engineering experience in **web development** and **cybersecurity**, gained through internships at **Innovexis** and the **Cisco Networking Academy**.
 - 🤖 Growing expertise in **applied machine learning** — embeddings, similarity search, and recommendation pipelines (e.g. CLIP-based product recommendation, catalog deduplication, and reverse image search).
 - 🧱 Comfortable across the stack — from responsive front-end interfaces to backend services and data pipelines.
-- 🔐 Security-aware engineering practices informed by networking and cybersecurity fundamentals.
 - ⚡ Currently sharpening skills in system design, cloud infrastructure, and production ML workflows.
 
 **Open To:** Software Engineering Internships · AI/ML Engineering roles · Full Stack opportunities · Open-source collaboration
@@ -53,116 +52,43 @@ I'm a Computer Science undergraduate focused on building reliable, scalable soft
 **Cloud, DevOps & Tooling**
 ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-<br>
-
----
-
-## 🧠 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Embeddings & Representation Learning | ●●●●○ | CLIP-based image/text embeddings for similarity and retrieval tasks |
-| Recommendation Systems | ●●●●○ | Product recommendation using embedding similarity and ranking |
-| Computer Vision | ●●●○○ | Reverse image search, catalog deduplication pipelines |
-| Data Processing | ●●●●○ | Dataset preparation, feature extraction, evaluation pipelines |
-| Model Deployment | ●●●○○ | Packaging ML workflows into usable, presentable deliverables |
-
-<br>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🛍️ Fashion Product Intelligence — CLIP-Powered Recommendation & Search</b></summary>
-<br>
+## 🍽️ DineFlow – Restaurant Management System
 
-An ML pipeline built on a fashion product image dataset using CLIP embeddings to power three connected capabilities: product recommendation, catalog deduplication, and reverse image search.
-
-| Category | Detail |
-|---|---|
-| **Stack** | Python, CLIP, NumPy, Scikit-learn |
-| **Scale** | Full product image catalog |
-| **Performance** | Embedding-based similarity search across catalog |
-| **Security** | N/A (offline research pipeline) |
-| **Impact** | Demonstrates recommendation, dedup & retrieval on a unified embedding space |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) |
-
-This project explores how a shared multimodal embedding space can support multiple downstream tasks — treating recommendation, deduplication, and reverse search as facets of the same nearest-neighbor problem rather than separate systems.
-
-</details>
-
-<details>
-<summary><b>🌐 [Project Name] — Full Stack Web Application</b></summary>
-<br>
-
-[Short professional description of the project.]
-
-| Category | Detail |
-|---|---|
-| **Stack** | [e.g. React, Node.js, MongoDB] |
-| **Scale** | [e.g. Users / requests / records] |
-| **Performance** | [e.g. Load time, response time] |
-| **Security** | [e.g. Auth, encryption, input validation] |
-| **Impact** | [Outcome or measurable result] |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) |
-
-[Longer explanation of the engineering approach and decisions.]
-
-</details>
-
-<details>
-<summary><b>🔐 [Project Name] — Security / Networking Project</b></summary>
-<br>
-
-[Short professional description of the project.]
-
-| Category | Detail |
-|---|---|
-| **Stack** | [e.g. Cisco Packet Tracer, Python] |
-| **Scale** | [Scope of the network/system] |
-| **Performance** | [Relevant metric] |
-| **Security** | [Security controls implemented] |
-| **Impact** | [Outcome or measurable result] |
-| **Repository** | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) |
-
-[Longer explanation of the engineering approach and decisions.]
-
-</details>
-
-<br>
+A modern restaurant management system designed to streamline dining operations by managing reservations, orders, menus, and customer interactions through an intuitive web interface.
 
 ---
 
-## 💼 Experience
+### ✨ Key Highlights
 
-**Web Development Intern · Innovexis**
-📅 [Start Month Year] – [End Month Year]
+- 🍽️ Table reservation and booking management
+- 📋 Digital menu with order management
+- 👨‍🍳 Admin dashboard for managing tables, menu items, and orders
+- 💳 Billing and payment management
+- 📱 Responsive and user-friendly interface
 
-Contributed to the design and development of web-based products, working across front-end interfaces and supporting backend functionality.
+<p align="left">
+  <a href="https://github.com/Xdityax/hotel-management-system">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-- Built and maintained responsive UI components for production use
-- Collaborated with the engineering team on feature implementation and debugging
-- Participated in code reviews and iterative delivery cycles
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-`JavaScript` `React` `HTML/CSS` `Git`
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-<br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
-**Cybersecurity Intern · Cisco Networking Academy**
-📅 [Start Month Year] – [End Month Year]
+<p align="left">
+  <img src="https://img.shields.io/badge/Restaurant-Management-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Application-blue?style=for-the-badge">
+</p>
 
-Gained applied experience in networking fundamentals and security practices through structured, hands-on training.
 
-- Studied network architecture, protocols, and threat models
-- Practiced security assessment and defensive configuration techniques
-- Completed structured coursework and hands-on labs
-
-`Networking` `Cybersecurity` `Linux` `Security Fundamentals`
-
-<br>
-
----
 
 ## 🏆 Achievements
 
