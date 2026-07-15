@@ -90,17 +90,6 @@ A modern restaurant management system designed to streamline dining operations b
 
 
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| [Achievement Name] | [Brief detail — competition, rank, or scope] |
-| [Achievement Name] | [Brief detail — competition, rank, or scope] |
-| [Achievement Name] | [Brief detail — competition, rank, or scope] |
-
-</div>
 
 <br>
 
@@ -132,7 +121,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_HANDLE-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Meghasharma02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Meghasharma02)-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Meghasharma02/)
 
 </div>
 
@@ -159,7 +148,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Megha-0206&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7" />
 
 </div>
 
@@ -171,7 +160,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D0221&color=B19CD9&line=8A2BE2&point=E6E6FA&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Megha-0206&theme=react-dark&bg_color=0D0221&color=B19CD9&line=8A2BE2&point=E6E6FA&area=true&hide_border=true" />
 
 </div>
 
@@ -183,7 +172,7 @@ A modern restaurant management system designed to streamline dining operations b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Megha-0206/Megha-0206/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -221,10 +210,9 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:meghabhardwajj0206@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/meghasharma02"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Megha-0206"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
