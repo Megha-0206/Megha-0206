@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:4b0082&height=220&section=header&text=Megha%Sharma%20%7C%20Software%20Engineer&fontSize=42&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:4b0082&height=220&section=header&text=MeghaSharma%20%7C%20Software%20Engineer&fontSize=42&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=B19CD9&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
@@ -9,13 +9,12 @@
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/📍-New%20Delhi,%20India-4B0082?style=flat-square&labelColor=1a1a2e)
 
-<a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/meghasharma02/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:meghabhardwajj0206@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Megha-0206"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6a0dad&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=6a0dad&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Megha-0206&color=6a0dad&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Megha-0206?color=6a0dad&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?color=6a0dad&style=flat-square&label=Stars)
 
 </div>
